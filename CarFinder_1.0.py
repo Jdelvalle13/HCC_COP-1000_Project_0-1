@@ -10,7 +10,7 @@ def display_menu(menuOptions):
     
     print()
     print('********************************')
-    print('AutoCountry Vehicle Finder v0.5')
+    print('AutoCountry Vehicle Finder v1.0')
     print("********************************")
     print()
     print('Please Enter the following number below from the following menu:')
